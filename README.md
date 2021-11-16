@@ -12,3 +12,6 @@
  * [LDPF](https://github.com/LDPF/LDPF) - Implement Lua-GUIs for audio plugins using the DISTRHO Plugin Framework
  * [LDPF-Examples](https://github.com/LDPF/LDPF-Examples) - Example plugins for LDPF
  
+### Lua Miscellaneous
+ * [lrexrepl](https://github.com/osch/lrexrepl) - Commandline tool: Search & Replace in multiple files using Regular Expressions
+ * [lua-nocurses](https://github.com/osch/lua-nocurses) - A terminal screen manipulation library
