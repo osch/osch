@@ -15,3 +15,4 @@
 ### Lua Miscellaneous
  * [lrexrepl](https://github.com/osch/lrexrepl) - Commandline tool: Search & Replace in multiple files using Regular Expressions
  * [lua-nocurses](https://github.com/osch/lua-nocurses) - A terminal screen manipulation library
+ * [lua-capis](https://github.com/lua-capis) - C-APIs for native Lua module interoperation
