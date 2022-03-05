@@ -12,7 +12,8 @@
  * [LDPF](https://github.com/LDPF/LDPF) - Implement Lua-GUIs for audio plugins using the DISTRHO Plugin Framework
  * [LDPF-Examples](https://github.com/LDPF/LDPF-Examples) - Example plugins for LDPF
  
-### Lua Miscellaneous
- * [lrexrepl](https://github.com/osch/lrexrepl) - Commandline tool: Search & Replace in multiple files using Regular Expressions
- * [lua-nocurses](https://github.com/osch/lua-nocurses) - A terminal screen manipulation library
+### Miscellaneous
+ * [lrexrepl](https://github.com/osch/lrexrepl) - Commandline tool: Search & Replace in multiple files using Lua and Regular Expressions
+ * [lua-nocurses](https://github.com/osch/lua-nocurses) - A terminal screen manipulation library for Lua
  * [lua-capis](https://github.com/lua-capis) - C-APIs for native Lua module interoperation
+ * [LucED](https://github.com/osch/luced) - The Lucid Editor - a fast & lightweight text editor for X11
