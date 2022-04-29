@@ -11,6 +11,7 @@
 ### Lua Audio
  * [LDPF](https://github.com/LDPF/LDPF) - Implement Lua-GUIs for audio plugins using the DISTRHO Plugin Framework
  * [LDPF-Examples](https://github.com/LDPF/LDPF-Examples) - Example plugins for LDPF
+ * [lua-ljack](https://github.com/osch/lua-ljack) - Lua binding for the JACK Audio Connection Kit
  
 ### Miscellaneous
  * [lrexrepl](https://github.com/osch/lrexrepl) - Commandline tool: Search & Replace in multiple files using Lua and Regular Expressions
