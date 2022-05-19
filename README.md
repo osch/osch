@@ -16,5 +16,6 @@
 ### Miscellaneous
  * [lrexrepl](https://github.com/osch/lrexrepl) - Commandline tool: Search & Replace in multiple files using Lua and Regular Expressions
  * [lua-nocurses](https://github.com/osch/lua-nocurses) - A terminal screen manipulation library for Lua
- * [lua-capis](https://github.com/lua-capis) - C-APIs for native Lua module interoperation
+ * [lua-capis](https://github.com/lua-capis) - C-APIs for native Lua module interoperability
+ * [lua-carray](https://github.com/osch/lua-carray) - Lua arrays for primitive numeric C data types
  * [LucED](https://github.com/osch/luced) - The Lucid Editor - a fast & lightweight text editor for X11
