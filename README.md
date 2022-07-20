@@ -13,6 +13,7 @@
  * [LDPF-Examples](https://github.com/LDPF/LDPF-Examples) - Example plugins for LDPF
  * [lua-ljack](https://github.com/osch/lua-ljack) - Lua binding for the JACK Audio Connection Kit
  * [lua-lrtaudio](https://github.com/osch/lua-lrtaudio) - Lua binding for RtAudio
+ * [lua-lrtmidi](https://github.com/osch/lua-lrtmidi) - Lua binding for RtMidi
  * [lua-auproc](https://github.com/osch/lua-auproc) - Simple audio processor objects for Lua
  
 ### Miscellaneous
