@@ -21,6 +21,7 @@
  * [lua-nocurses](https://github.com/osch/lua-nocurses) - A terminal screen manipulation library for [Lua]
  * [lua-capis](https://github.com/lua-capis) - C-APIs for native [Lua] module interoperability
  * [lua-carray](https://github.com/osch/lua-carray) - Lua arrays for primitive numeric C data types
+ * [lua-lfft](https://github.com/osch/lua-lfft) - Fast Fourier Transformation for Lua
  * [LucED](https://github.com/osch/luced) - The Lucid Editor - a fast & lightweight text editor for [X11]
 
 [Lua]:     https://www.lua.org/
