@@ -7,6 +7,7 @@
 ### Lua GUI
  * [lua-lpugl](https://github.com/osch/lua-lpugl) - A minimal [Lua]-API for building GUIs using Cairo or OpenGL
  * [lua-lwtk](https://github.com/osch/lua-lwtk) - Implement cross platform GUI widgets in pure [Lua] on top of [LPugl] or [LÖVE] 2D game engine.
+ * [lua-lqtk](https://github.com/osch/lua-lqtk)  ✨ 𝗡𝗘𝗪 ✨   - A Lua binding for [Qt 6]
  
 ### Lua Audio
  * [LDPF](https://github.com/LDPF/LDPF) - Implement Lua-GUIs for audio plugins using the [DISTRHO] Plugin Framework
@@ -33,3 +34,4 @@
 [X11]:     https://en.wikipedia.org/wiki/X_Window_System
 [LPugl]:   https://github.com/osch/lua-lpugl
 [LDPF]:    https://github.com/LDPF/LDPF
+[Qt 6]:    https://doc.qt.io/qt-6
